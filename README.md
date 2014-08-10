@@ -1,4 +1,4 @@
-# Callbacks
+# Cubic bezier
 
 jQuery plugin for cubic bezier easings.
 
